@@ -12,8 +12,8 @@ title = "My Awesome Title"
 # Hero section (from here on is for icon theme)
 [params.hero]
   img = "images/hero_bg.jpg"
-  title = "Create awesome things for better web"
-  description = "Lovingly hand-crafted by the fine folks at [FreeHTML5.co](http://freehtml5.co/)"
+  title = "Welcome to <br />Franklin Network"
+  description = "Created with love by [Matter Labs](https://matter-labs.io)"
 
 # Navigation section
 [params.nav]
